@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ThienAnSD/ThienAnSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br><br>
+  <samp>
+    <b>Hi! I'm An :wave: </b> 
+    <br>:coffee: Wanna chat? :point_right: Connect with me on <a href="https://www.linkedin.com/in/thienanduongdo/">LinkedIn</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>:telescope: 2020 Goal</b></summary>
+  I am working on a database for mechanical keyboards ⌨ so everyone can experience how each combination of switches and keyboards would sound.
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
