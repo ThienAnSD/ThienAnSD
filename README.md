@@ -7,8 +7,4 @@
   </samp>
 </p>
 
-<details>
-  <summary><b>:telescope: 2020 Goal</b></summary>
-  I am working on a database for mechanical keyboards ⌨ so everyone can experience how each combination of switches and keyboards would sound.
-</details>
 
